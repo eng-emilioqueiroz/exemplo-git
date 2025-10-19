@@ -1,3 +1,3 @@
 <?php
-	echo "hello world stash";
+	echo "hello world resolve bug";
 ?>
